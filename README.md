@@ -4,6 +4,11 @@
 
 <iframe width="560" height="315" src="https://youtu.be/A76yF_7ReQE?si=4Sgqj7Fa39sKyUQx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<video width="320" height="240" controls>
+  <source src="https://sdk-web-1252463788.cos.ap-hongkong.myqcloud.com/component/tweblive/assets/doc/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 [Tencent Cloud Chat](https://trtc.io/document/50061?platform=web&product=chat&menulabel=uikit) provides globally interconnected chat APIs, multi-platform SDKs, and UIKit components to help you quickly bring messaging capabilities such as one-to-one chat, group chat, chat rooms, and system notifications to your applications and websites.
 ## Global Compliance Certifications
 <table>
@@ -24,8 +29,7 @@
 </table>
 
 
-## Core Capabilities
-ßßßß
+## Core Capabilities  
 - 1 Billion+ Monthly active users
 - 550 Billion+ Daily peak messages
 - 100,000+ Customers worldwid
