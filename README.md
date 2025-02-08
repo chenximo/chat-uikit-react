@@ -6,10 +6,12 @@
 
 11111
 
+```html
 <video width="320" height="240" controls>
   <source src="https://sdk-web-1252463788.cos.ap-hongkong.myqcloud.com/component/tweblive/assets/doc/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+```
 
 https://github.com/user-attachments/assets/25264b5b-6931-4d39-948c-5a1e4ce42fa7
 
